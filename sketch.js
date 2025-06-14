@@ -2,7 +2,7 @@ let logoImg;
 
 function preload() {
   // Load the logo image
-  logoImg = loadImage('logo_w.png');
+  logoImg = loadImage('https://raw.githubusercontent.com/cooqieez/rajansrer/refs/heads/main/logo_w.png');
 }
 
 function setup() {
